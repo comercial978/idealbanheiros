@@ -8,7 +8,7 @@
 | D-002 | Limitar a oferta à locação de banheiros químicos e contêineres | Posicionamento informado pelo cliente |
 | D-003 | Usar Mais Módulos apenas como referência de organização | A Ideal não fabrica nem vende e deseja uma experiência mais sucinta |
 | D-004 | Priorizar contato, mobile, conteúdo em texto, SEO e desempenho | São os maiores gargalos observados no site atual |
-| D-005 | Criar o repositório `comercial978/idealbanheiros` como privado | Evita publicação desnecessária de documentação comercial e de planejamento |
+| D-005 | Manter o repositório `comercial978/idealbanheiros` como público | Visibilidade alterada por solicitação do cliente em 08/10/2026 para permitir acesso sem login |
 | D-006 | Não incluir dados de pagamento na documentação técnica | Dados financeiros não são necessários para desenvolver o site |
 
 ## Premissas a validar
